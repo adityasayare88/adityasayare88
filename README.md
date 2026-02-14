@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electronics Engineer/Full-time R&D Engineer at a Manufacturing Company
 --------------------------------
 
-I thrive on turning ideas into interactive and efficient digital experiences. My coding journey extends from crafting pixel-perfect front-end designs to orchestrating robust back-end functionalities. With a keen eye for detail and a love for clean code, I aim to deliver solutions that not only meet but exceed expectations.
+Specializing in embedded systems, IoT, and industrial automation. Skilled in microcontroller programming, sensor integration, power electronics, and technical documentation. Passionate about developing innovative embedded solutions for manufacturing and smart building technologies. 
 
 * 🌍  I'm based in Mumbai🌆
 * ✉️  You can contact me at [adityasayare2003@gmail.com](mailto:adityasayare2003@gmail.com)
-* 🧠  I'm learning Spring Boot
-* 🤝  I'm open to collaborating on Backend Web projects
-* ⚡  I am a Electronics Engineering Student studying at VESIT (Chembur campus).
+* 🧠  I'm learning new technologies
+* 🤝  I'm open to collaborating on projects and ideas
+* ⚡  Graduated in 2025 as an Electronics Engineer
 
 ### Skills
 
