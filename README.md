@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Santosh Ayare
 ============================================================================================================================================
 
-University Student/Web Developer
+Electronics Engineer/Full-time R&D Engineer at a Manufacturing Company
 --------------------------------
 
 I thrive on turning ideas into interactive and efficient digital experiences. My coding journey extends from crafting pixel-perfect front-end designs to orchestrating robust back-end functionalities. With a keen eye for detail and a love for clean code, I aim to deliver solutions that not only meet but exceed expectations.
